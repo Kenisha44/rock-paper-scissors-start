@@ -1,4 +1,4 @@
-import random
+import random #Import this package to have random numbers
 
 rock = '''
     _______
